@@ -1,0 +1,185 @@
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   ../../../../../back20112022/README.md
+	new file:   ../../../../../back20112022/getRep
+	new file:   ../../../../../back20112022/initPartarum
+	new file:   ../../../../../back20112022/partarumInit.json
+	new file:   ../../../../../back20112022/space.json
+	deleted:    ../../../../../github/partarum/composer/test.json
+	new file:   ../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/System/ConfigRouter.js
+	new file:   ../../../../../partarum/download/test.install.partarum.download/README.md
+	new file:   ../../../../../partarum/download/test.install.partarum.download/getRep
+	new file:   ../../../../../partarum/download/test.install.partarum.download/initPartarum
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ../../../../../back20112022/README.md
+	deleted:    ../../../../../back20112022/partarumInit.json
+	deleted:    ../../../../../back20112022/space.json
+	modified:   ../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/System/ConfigRouter.js
+	modified:   ../../../../../partarum/download/test.install.partarum.download/README.md
+	modified:   ../../../../../partarum/download/test.install.partarum.download/getRep
+	modified:   ../../../../../partarum/download/test.install.partarum.download/initPartarum
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../../../.idea/
+	../../../../../.metadata/
+	../../../../../.vs/
+	../../../../../.vscode/
+	../../../../../Backup/
+	../../../../../Goland/
+	../../../../../HttpRequest.php
+	../../../../../Laravel/
+	../../../../../Moderna/
+	../../../../../Socket.php
+	../../../../../Template/
+	../../../../../TestGet.php
+	../../../../../Tests/
+	../../../../../alexander-bombis/
+	../../../../../asgard/
+	../../../../../back20112022/.idea/
+	../../../../../cargo/
+	../../../../
+	../../../../../doxygen/
+	../../../../../facebook_test.html
+	../../../../../fecebook_test.css
+	../../../../../fetch.html
+	../../../../../fetch.js
+	../../../../../filesystem.php
+	../../../../../filterEmail.php
+	../../../../../github/
+	../../../../../iisstart.htm
+	../../../../../iisstart.png
+	../../../../../index.php
+	../../../../../index_documentation.php
+	../../../../../initPartarum.zip
+	../../../../../jsonIterator.php
+	../../../../../keepass/
+	../../../../../logo.json
+	../../../../../mail.radio-schlauti.de/
+	../../../../../partarum/.idea/
+	../../../../../partarum/de/composer.partarum.de/
+	../../../../../partarum/de/fnm.partarum.de/.gitignore
+	../../../../../partarum/de/fnm.partarum.de/.htaccess
+	../../../../../partarum/de/fnm.partarum.de/.idea/
+	../../../../../partarum/de/fnm.partarum.de/API/
+	../../../../../partarum/de/fnm.partarum.de/CODEOWNERS
+	../../../../../partarum/de/fnm.partarum.de/Partarum/Partarum.php
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumAPI/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumCLI/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumCSS/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumConfig/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumIntern/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/.htaccess
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Cache/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Design/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Draw/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Events/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/HTML/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Helper/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Import/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Office.js
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Partarum.js
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/System/ClientSetting.js
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/System/Cookie.js
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/System/System.js
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Validation/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Workbox/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Worker/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ClientSide/Workshop/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/ServerSide/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJS/gobal/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJSBuild/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumJSBuildTest/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumLorem/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumPHP/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumTemplates/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/PartarumWorkspace/
+	../../../../../partarum/de/fnm.partarum.de/Partarum/error.php
+	../../../../../partarum/de/fnm.partarum.de/Partarum/setAutoloader.php
+	../../../../../partarum/de/fnm.partarum.de/Partarum/startPartarum.php
+	../../../../../partarum/de/fnm.partarum.de/README.md
+	../../../../../partarum/de/fnm.partarum.de/app/
+	../../../../../partarum/de/fnm.partarum.de/cli/
+	../../../../../partarum/de/fnm.partarum.de/config/
+	../../../../../partarum/de/fnm.partarum.de/index.php
+	../../../../../partarum/de/fnm.partarum.de/pdf.js
+	../../../../../partarum/de/fnm.partarum.de/public/
+	../../../../../partarum/de/test.partarum.de/
+	../../../../../partarum/de/testserver.partarum.de/
+	../../../../../partarum/de/vendor/
+	../../../../../partarum/download/composer.partarum.download/
+	../../../../../partarum/download/css.partarum.download/
+	../../../../../partarum/download/currently.partarum.download/
+	../../../../../partarum/download/dev.partarum.download/
+	../../../../../partarum/download/final.partarum.download/
+	../../../../../partarum/download/init.partarum.download/
+	../../../../../partarum/download/install.partarum.de/
+	../../../../../partarum/download/install.partarum.download/
+	../../../../../partarum/download/modular.partarum.download/
+	../../../../../partarum/download/packages.json
+	../../../../../partarum/download/packages.partarum.download/
+	../../../../../partarum/download/partarum.partarum.download/
+	../../../../../partarum/download/plugin.partarum.download/
+	../../../../../partarum/download/server.partarum.download/
+	../../../../../partarum/download/space.partarum.download/
+	../../../../../partarum/download/test.install.partarum.download/.gitignore
+	../../../../../partarum/download/testSubModules/
+	../../../../../partarum/github/
+	../../../../../partarum/module/
+	../../../../../partarum/net/
+	../../../../../partarum/noServer.zip
+	../../../../../partarum/noServer/
+	../../../../../partarum/partarum.de/
+	../../../../../partarum/partarum.download/
+	../../../../../partarum/partarum.net/
+	../../../../../partarum/partarumCLI/
+	../../../../../partarum/partarum_aktuell/
+	../../../../../phpMyAdmin/
+	../../../../../phpinfo.php
+	../../../../../plainPHP/
+	../../../../../projects/
+	../../../../../proxmox/
+	../../../../../request.php
+	../../../../../request/
+	../../../../../runphp/
+	../../../../../screenshot.php
+	../../../../../social_test/
+	../../../../../socialnetwork/
+	../../../../../status.js
+	../../../../../steven/
+	../../../../../test-schlauti/
+	../../../../../test.html
+	../../../../../testArray.php
+	../../../../../testArrayObject.php
+	../../../../../testBitwiseText.php
+	../../../../../testConstantInClass.php
+	../../../../../testCurl.php
+	../../../../../testDecodeBin.php
+	../../../../../testGenerator.php
+	../../../../../testGit/
+	../../../../../testHTTP.php
+	../../../../../testHeader.php
+	../../../../../testIterator.php
+	../../../../../testNull.php
+	../../../../../testOp.php
+	../../../../../testRandomBytes.php
+	../../../../../testRecursiveDirectoryIterator.php
+	../../../../../testRequest.html
+	../../../../../testSSLSocket.php
+	../../../../../testSocket/
+	../../../../../testStatic.php
+	../../../../../testType.php
+	../../../../../testUUID.php
+	../../../../../testWeakMap.php
+	../../../../../testWebToken.php
+	../../../../../test_explode.php
+	../../../../../testpdf/
+	../../../../../thiemo/
+	../../../../../vdocker01.partarum.de/
+	../../../../../web.config
+	../../../../../websockets/
+
